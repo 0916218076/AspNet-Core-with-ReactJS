@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { Container } from 'reactstrap';
 import { NavMenu } from './NavMenu';
 import logo from '../../src/img/petro.png';
-
+import login from '../../src/components/loggin';
 export class Layout extends Component {
   static displayName = Layout.name;
 
